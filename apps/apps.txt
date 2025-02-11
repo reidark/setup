@@ -1,0 +1,10 @@
+bitwarden
+bruno
+cursor
+discord
+figma
+ghostty
+notion
+raycast
+slack
+spotify

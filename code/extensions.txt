@@ -1,0 +1,9 @@
+astro-build.astro-vscode
+bradlc.vscode-tailwindcss
+dbaeumer.vscode-eslint
+denoland.vscode-deno
+eamodio.gitlens
+editorconfig.editorconfig
+esbenp.prettier-vscode
+unifiedjs.vscode-mdx
+yoavbls.pretty-ts-errors

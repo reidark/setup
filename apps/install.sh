@@ -1,0 +1,1 @@
+xargs brew install --cask < apps.txt

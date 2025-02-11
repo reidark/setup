@@ -1,0 +1,1 @@
+cat extensions.txt | xargs -L1 cursor --install-extension
