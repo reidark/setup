@@ -1,0 +1,2 @@
+# setup
+Fast MacOS setup.
