@@ -4,6 +4,7 @@ cursor
 discord
 figma
 ghostty
+iina
 notion
 raycast
 slack
