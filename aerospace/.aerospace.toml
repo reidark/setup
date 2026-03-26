@@ -115,6 +115,9 @@ run = ['move-node-to-workspace 1']
 if.app-id = 'com.microsoft.VSCode'
 run = ['move-node-to-workspace 2']
 [[on-window-detected]]
+if.app-id = 'com.todesktop.230313mzl4w4u92'
+run = ['move-node-to-workspace 2']
+[[on-window-detected]]
 if.app-id = 'com.mitchellh.ghostty'
 run = ['move-node-to-workspace 3']
 [[on-window-detected]]
@@ -125,4 +128,10 @@ if.app-id = 'com.hnc.Discord'
 run = ['move-node-to-workspace 4']
 [[on-window-detected]]
 if.app-id = 'com.spotify.client'
+run = ['move-node-to-workspace 5']
+[[on-window-detected]]
+if.app-id = 'com.todoist.mac.Todoist'
+run = ['move-node-to-workspace 5']
+[[on-window-detected]]
+if.app-id = 'notion.id'
 run = ['move-node-to-workspace 5']

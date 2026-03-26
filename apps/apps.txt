@@ -3,10 +3,13 @@ bitwarden
 bruno
 cursor
 discord
-figma
 ghostty
+handy
 iina
 notion
+opencode
+orbstack
 raycast
 slack
 spotify
+todoist-app
