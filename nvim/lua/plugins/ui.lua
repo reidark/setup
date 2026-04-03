@@ -1,33 +1,10 @@
 return {
   {
-    "catppuccin/nvim",
-    name = "catppuccin",
+    "xero/miasma.nvim",
     priority = 1000,
     lazy = false,
     config = function()
-      require("catppuccin").setup({
-        flavour = "mocha",
-        integrations = {
-          cmp = true,
-          gitsigns = true,
-          mason = true,
-          neo_tree = true,
-          telescope = { enabled = true },
-          treesitter = true,
-          fidget = true,
-          indent_blankline = { enabled = true },
-          native_lsp = {
-            enabled = true,
-            underlines = {
-              errors = { "undercurl" },
-              hints = { "undercurl" },
-              warnings = { "undercurl" },
-              information = { "undercurl" },
-            },
-          },
-        },
-      })
-      vim.cmd.colorscheme("catppuccin")
+      vim.cmd.colorscheme("miasma")
     end,
   },
 
@@ -38,7 +15,7 @@ return {
     config = function()
       require("lualine").setup({
         options = {
-          theme = "catppuccin-mocha",
+          theme = "auto",
           component_separators = { left = "", right = "" },
           section_separators = { left = "", right = "" },
           globalstatus = true,
