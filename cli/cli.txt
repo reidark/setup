@@ -1,3 +1,5 @@
 deno
+herdr
 nvm
 sketchybar
+mole
